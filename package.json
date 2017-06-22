@@ -1,0 +1,31 @@
+{
+  "name": "hexo-filter-container",
+  "version": "1.0.0",
+  "description": "Allow creating a custom container (div or section, etc.) in Hexo.io markdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PageDragonDev/hexo-filter-container.git"
+  },
+  "keywords": [
+    "hexo",
+    "filter",
+    "markdown",
+    "sup"
+  ],
+  "author": {
+    "name": "Jerry Holmes",
+    "email": "jholmes@pagedrgon.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PageDragonDev/hexo-filter-container/issues"
+  },
+  "homepage": "https://github.com/PageDragonDev/hexo-filter-container#readme",
+  "dependencies": {
+    "object-assign": "^4.1.0"
+  }
+}
