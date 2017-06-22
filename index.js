@@ -1,4 +1,5 @@
 /* global hexo */
+console.log("I'M HERE")
 
 var assign = require('object-assign');
 var markup = ':::';
