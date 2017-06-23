@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-container",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allow creating a custom container (div or section, etc.) in Hexo.io markdown.",
   "main": "index.js",
   "scripts": {
